@@ -1,3 +1,11 @@
+# Simple Web Project
+
+This repository contains a simple web project with HTML, CSS, and JavaScript files. Additionally, it includes a script to start a Python HTTP server for serving the files locally.
+
+![Screenshot of the Web Project](web_img.jpeg)
+
+## Project Structure
+
 
 ### Files
 
